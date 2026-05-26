@@ -3,3 +3,4 @@ Pregunta 2: GET
 Pregunta 3: POST
 Pregunta 4: Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí
 Pregunta 5: git --version
+karen martinez 
